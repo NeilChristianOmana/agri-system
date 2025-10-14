@@ -1,3 +1,12 @@
+create databasee agri_sysem;
+
+create table three_categ(
+ High_Value_Crops (20), 
+ Fishiries(20), 
+ Livestocks(20)
+ );
+
+
 insert into  three_categ(High_Value_Crops, Fishiries, Livestocks)
 value('Anao', 'Anao', 'Anao'),
 ('Cagsing', 'Cagsing', 'Cagsing'),
