@@ -1,9 +1,9 @@
-create databasee agri_sysem;
+create database agri_system;
 
 create table three_categ(
- High_Value_Crops (20), 
- Fishiries(20), 
- Livestocks(20)
+ High_Value_Crops varchar (20), 
+ Fishiries varchar (20), 
+ Livestocks varchar (20)
  );
 
 
